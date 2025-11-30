@@ -1,0 +1,1935 @@
+{
+    "elements": {
+        "H": {
+            "coords": {
+                "row": 1,
+                "col": 1
+            },
+            "atomic_number": 1,
+            "name": "Hidrógeno",
+            "group": "hydrogen",
+            "atomic_weight": 1.008,
+            "energy_levels": [
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1766",
+                "discovery_place": "Gran Bretaña",
+                "common_uses": [
+                    "Combustible",
+                    "Producción de amoniaco"
+                ]
+            }
+        },
+        "He": {
+            "coords": {
+                "row": 1,
+                "col": 18
+            },
+            "atomic_number": 2,
+            "name": "Helio",
+            "group": "noble_gases",
+            "atomic_weight": 4.0028,
+            "energy_levels": [
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1868",
+                "discovery_place": "Francia / Reino Unido",
+                "common_uses": [
+                    "Inflar globos",
+                    "Refrigerante criogénico"
+                ]
+            }
+        },
+        "Li": {
+            "coords": {
+                "row": 2,
+                "col": 1
+            },
+            "atomic_number": 3,
+            "name": "Litio",
+            "group": "alkali",
+            "atomic_weight": 6.94,
+            "energy_levels": [
+                2,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1817",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Baterías recargables",
+                    "Aleaciones"
+                ]
+            }
+        },
+        "Be": {
+            "coords": {
+                "row": 2,
+                "col": 2
+            },
+            "atomic_number": 4,
+            "name": "Berilio",
+            "group": "alkali_earth",
+            "atomic_weight": 9.0122,
+            "energy_levels": [
+                2,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1798",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Aeroespacial",
+                    "Instrumentos científicos"
+                ]
+            }
+        },
+        "B": {
+            "coords": {
+                "row": 2,
+                "col": 13
+            },
+            "atomic_number": 5,
+            "name": "Boro",
+            "group": "metalloids",
+            "atomic_weight": 10.81,
+            "energy_levels": [
+                2,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1808",
+                "discovery_place": "Francia / Inglaterra",
+                "common_uses": [
+                    "Vidrio resistente al calor",
+                    "Detergentes"
+                ]
+            }
+        },
+        "C": {
+            "coords": {
+                "row": 2,
+                "col": 14
+            },
+            "atomic_number": 6,
+            "name": "Carbono",
+            "group": "nonmetals",
+            "atomic_weight": 12.011,
+            "energy_levels": [
+                2,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "Antiguo",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Combustibles",
+                    "Plásticos"
+                ]
+            }
+        },
+        "N": {
+            "coords": {
+                "row": 2,
+                "col": 15
+            },
+            "atomic_number": 7,
+            "name": "Nitrógeno",
+            "group": "nonmetals",
+            "atomic_weight": 14.007,
+            "energy_levels": [
+                2,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "1772",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Fertilizantes",
+                    "Refrigerantes"
+                ]
+            }
+        },
+        "O": {
+            "coords": {
+                "row": 2,
+                "col": 16
+            },
+            "atomic_number": 8,
+            "name": "Oxígeno",
+            "group": "nonmetals",
+            "atomic_weight": 15.999,
+            "energy_levels": [
+                2,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "1774",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Respiración",
+                    "Combustión"
+                ]
+            }
+        },
+        "F": {
+            "coords": {
+                "row": 2,
+                "col": 17
+            },
+            "atomic_number": 9,
+            "name": "Flúor",
+            "group": "halogens",
+            "atomic_weight": 18.998,
+            "energy_levels": [
+                2,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "1886",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Pasta dental",
+                    "Teflón"
+                ]
+            }
+        },
+        "Ne": {
+            "coords": {
+                "row": 2,
+                "col": 18
+            },
+            "atomic_number": 10,
+            "name": "Neón",
+            "group": "noble_gases",
+            "atomic_weight": 20.180,
+            "energy_levels": [
+                2,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "1898",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Luces de neón",
+                    "Señalización"
+                ]
+            }
+        },
+        "Na": {
+            "coords": {
+                "row": 3,
+                "col": 1
+            },
+            "atomic_number": 11,
+            "name": "Sodio",
+            "group": "alkali",
+            "atomic_weight": 22.990,
+            "energy_levels": [
+                2,
+                8,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1807",
+                "discovery_place": "Gran Bretaña",
+                "common_uses": [
+                    "Sodio metálico",
+                    "producción de compuestos químicos"
+                ]
+            }
+        },
+        "Mg": {
+            "coords": {
+                "row": 3,
+                "col": 2
+            },
+            "atomic_number": 12,
+            "name": "Magnesio",
+            "group": "alkali_earth",
+            "atomic_weight": 24.305,
+            "energy_levels": [
+                2,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1808",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Magnesio metálico",
+                    "Producción de aleaciones ligeras"
+                ]
+            }
+        },
+        "Al": {
+            "coords": {
+                "row": 3,
+                "col": 13
+            },
+            "atomic_number": 13,
+            "name": "Aluminio",
+            "group": "post-transition_metals",
+            "atomic_weight": 26.982,
+            "energy_levels": [
+                2,
+                8,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1825",
+                "discovery_place": "Dinamarca",
+                "common_uses": [
+                    "Producción de aleaciones",
+                    "Fabricación de papel y vidrio"
+                ]
+            }
+        },
+        "Si": {
+            "coords": {
+                "row": 3,
+                "col": 14
+            },
+            "atomic_number": 14,
+            "name": "Silicio",
+            "group": "metalloids",
+            "atomic_weight": 28.085,
+            "energy_levels": [
+                2,
+                8,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "1825",
+                "discovery_place": "Dinamarca",
+                "common_uses": [
+                    "Producción de aleaciones",
+                    "Fabricación de papel y vidrio"
+                ]
+            }
+        },
+        "P": {
+            "coords": {
+                "row": 3,
+                "col": 15
+            },
+            "atomic_number": 15,
+            "name": "Fósforo",
+            "group": "nonmetals",
+            "atomic_weight": 30.974,
+            "energy_levels": [
+                2,
+                8,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "1825",
+                "discovery_place": "Inglaterra",
+                "common_uses": [
+                    "Fertilizante",
+                    "Producción de detergentes"
+                ]
+            }
+        },
+        "S": {
+            "coords": {
+                "row": 3,
+                "col": 16
+            },
+            "atomic_number": 16,
+            "name": "Azufre",
+            "group": "nonmetals",
+            "atomic_weight": 32.06,
+            "energy_levels": [
+                2,
+                8,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Varias regiones",
+                "common_uses": [
+                    "Producción de ácido sulfúrico",
+                    "Fungicida"
+                ]
+            }
+        },
+        "Cl": {
+            "coords": {
+                "row": 3,
+                "col": 17
+            },
+            "atomic_number": 17,
+            "name": "Cloro",
+            "group": "halogens",
+            "atomic_weight": 35.45,
+            "energy_levels": [
+                2,
+                8,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "1774",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Desinfección del agua",
+                    "Producción de PVC"
+                ]
+            }
+        },
+        "Ar": {
+            "coords": {
+                "row": 3,
+                "col": 18
+            },
+            "atomic_number": 18,
+            "name": "Argón",
+            "group": "noble_gases",
+            "atomic_weight": 39.948,
+            "energy_levels": [
+                2,
+                8,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "1894",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Iluminación de lámparas",
+                    "Protección de soldaduras"
+                ]
+            }
+        },
+        "K": {
+            "coords": {
+                "row": 4,
+                "col": 1
+            },
+            "atomic_number": 19,
+            "name": "Potasio",
+            "group": "alkali",
+            "atomic_weight": 39.098,
+            "energy_levels": [
+                2,
+                8,
+                8,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1807",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Fertilizante",
+                    "Producción de jabón"
+                ]
+            }
+        },
+        "Ca": {
+            "coords": {
+                "row": 4,
+                "col": 2
+            },
+            "atomic_number": 20,
+            "name": "Calcio",
+            "group": "alkali_earth",
+            "atomic_weight": 40.078,
+            "energy_levels": [
+                2,
+                8,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1808",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Construcción",
+                    "Suplementos alimenticios"
+                ]
+            }
+        },
+        "Sc": {
+            "coords": {
+                "row": 4,
+                "col": 3
+            },
+            "atomic_number": 21,
+            "name": "Escandio",
+            "group": "transition_metals",
+            "atomic_weight": 44.956,
+            "energy_levels": [
+                2,
+                8,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1879",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Aleaciones de aluminio",
+                    "Iluminación"
+                ]
+            }
+        },
+        "Ti": {
+            "coords": {
+                "row": 4,
+                "col": 4
+            },
+            "atomic_number": 22,
+            "name": "Titanio",
+            "group": "transition_metals",
+            "atomic_weight": 47.867,
+            "energy_levels": [
+                2,
+                8,
+                10,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1791",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Aleaciones resistentes",
+                    "Pigmentos blancos"
+                ]
+            }
+        },
+        "V": {
+            "coords": {
+                "row": 4,
+                "col": 5
+            },
+            "atomic_number": 23,
+            "name": "Vanadio",
+            "group": "transition_metals",
+            "atomic_weight": 50.942,
+            "energy_levels": [
+                2,
+                8,
+                11,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1801",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Aleaciones de acero",
+                    "Catalizadores químicos"
+                ]
+            }
+        },
+        "Cr": {
+            "coords": {
+                "row": 4,
+                "col": 6
+            },
+            "atomic_number": 24,
+            "name": "Cromo",
+            "group": "transition_metals",
+            "atomic_weight": 51.996,
+            "energy_levels": [
+                2,
+                8,
+                13,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1797",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Aleaciones de acero inoxidable",
+                    "Revestimientos decorativos"
+                ]
+            }
+        },
+        "Mn": {
+            "coords": {
+                "row": 4,
+                "col": 7
+            },
+            "atomic_number": 25,
+            "name": "Manganeso",
+            "group": "transition_metals",
+            "atomic_weight": 54.938,
+            "energy_levels": [
+                2,
+                8,
+                13,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1774",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Aleaciones de acero",
+                    "Baterías"
+                ]
+            }
+        },
+        "Fe": {
+            "coords": {
+                "row": 4,
+                "col": 8
+            },
+            "atomic_number": 26,
+            "name": "Hierro",
+            "group": "transition_metals",
+            "atomic_weight": 55.845,
+            "energy_levels": [
+                2,
+                8,
+                14,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Varios lugares",
+                "common_uses": [
+                    "Construcción",
+                    "Fabricación de herramientas"
+                ]
+            }
+        },
+        "Co": {
+            "coords": {
+                "row": 4,
+                "col": 9
+            },
+            "atomic_number": 27,
+            "name": "Cobalto",
+            "group": "transition_metals",
+            "atomic_weight": 55.845,
+            "energy_levels": [
+                2,
+                8,
+                15,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1735",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Aleaciones",
+                    "Baterías recargables"
+                ]
+            }
+        },
+        "Ni": {
+            "coords": {
+                "row": 4,
+                "col": 10
+            },
+            "atomic_number": 28,
+            "name": "Níquel",
+            "group": "transition_metals",
+            "atomic_weight": 58.693,
+            "energy_levels": [
+                2,
+                8,
+                16,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1751",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Aleaciones",
+                    "Recubrimientos"
+                ]
+            }
+        },
+        "Cu": {
+            "coords": {
+                "row": 4,
+                "col": 11
+            },
+            "atomic_number": 29,
+            "name": "Cobre",
+            "group": "transition_metals",
+            "atomic_weight": 63.546,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "Prehistórico",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Cables eléctricos",
+                    "Tubos de fontanería"
+                ]
+            }
+        },
+        "Zn": {
+            "coords": {
+                "row": 4,
+                "col": 12
+            },
+            "atomic_number": 30,
+            "name": "Zinc",
+            "group": "transition_metals",
+            "atomic_weight": 65.38,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad (conocido por civilizaciones antiguas)",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Galvanizado de metales",
+                    "Aleaciones (bronce, latón)"
+                ]
+            }
+        },
+        "Ga": {
+            "coords": {
+                "row": 4,
+                "col": 13
+            },
+            "atomic_number": 31,
+            "name": "Galio",
+            "group": "post-transition_metals",
+            "atomic_weight": 69.723,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1875",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Semiconductores",
+                    "Termómetros de alta temperatura"
+                ]
+            }
+        },
+        "Ge": {
+            "coords": {
+                "row": 4,
+                "col": 14
+            },
+            "atomic_number": 32,
+            "name": "Germanio",
+            "group": "metalloids",
+            "atomic_weight": 72.630,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "1886",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Semiconductores",
+                    "Fibra óptica"
+                ]
+            }
+        },
+        "As": {
+            "coords": {
+                "row": 4,
+                "col": 15
+            },
+            "atomic_number": 33,
+            "name": "Arsénico",
+            "group": "metalloids",
+            "atomic_weight": 74.922,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Aleaciones",
+                    "Preservantes de madera"
+                ]
+            }
+        },
+        "Se": {
+            "coords": {
+                "row": 4,
+                "col": 16
+            },
+            "atomic_number": 34,
+            "name": "Selenio",
+            "group": "nonmetals",
+            "atomic_weight": 78.971,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "1817",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Fotocélulas",
+                    "Aditivos en acero"
+                ]
+            }
+        },
+        "Br": {
+            "coords": {
+                "row": 4,
+                "col": 17
+            },
+            "atomic_number": 35,
+            "name": "Bromo",
+            "group": "halogens",
+            "atomic_weight": 79.904,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "1826",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Desinfectantes",
+                    "Flame retardants"
+                ]
+            }
+        },
+        "Kr": {
+            "coords": {
+                "row": 4,
+                "col": 18
+            },
+            "atomic_number": 36,
+            "name": "Kriptón",
+            "group": "noble_gases",
+            "atomic_weight": 83.798,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "1898",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Luces fluorescentes",
+                    "Láseres"
+                ]
+            }
+        },
+        "Rb": {
+            "coords": {
+                "row": 5,
+                "col": 1
+            },
+            "atomic_number": 37,
+            "name": "Rubidio",
+            "group": "alkali",
+            "atomic_weight": 85.468,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                8,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1861",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Celdas fotoeléctricas",
+                    "Relojes atómicos"
+                ]
+            }
+        },
+        "Sr": {
+            "coords": {
+                "row": 5,
+                "col": 2
+            },
+            "atomic_number": 38,
+            "name": "Estroncio",
+            "group": "alkali_earth",
+            "atomic_weight": 87.62,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1790",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Fuegos artificiales",
+                    "Imanes"
+                ]
+            }
+        },
+        "Y": {
+            "coords": {
+                "row": 5,
+                "col": 3
+            },
+            "atomic_number": 39,
+            "name": "Itrio",
+            "group": "transition_metals",
+            "atomic_weight": 88.906,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1794",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Iluminación LED",
+                    "Aleaciones especiales"
+                ]
+            }
+        },
+        "Zr": {
+            "coords": {
+                "row": 5,
+                "col": 4
+            },
+            "atomic_number": 40,
+            "name": "Circonio",
+            "group": "transition_metals",
+            "atomic_weight": 91.224,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                10,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1789",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Reactores nucleares",
+                    "Cerámica resistente al calor"
+                ]
+            }
+        },
+        "Nb": {
+            "coords": {
+                "row": 5,
+                "col": 5
+            },
+            "atomic_number": 41,
+            "name": "Niobio",
+            "group": "transition_metals",
+            "atomic_weight": 62.906,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                12,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1801",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Aleaciones de acero",
+                    "Superconductores"
+                ]
+            }
+        },
+        "Mo": {
+            "coords": {
+                "row": 5,
+                "col": 6
+            },
+            "atomic_number": 42,
+            "name": "Molibdeno",
+            "group": "transition_metals",
+            "atomic_weight": 95.95,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                13,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1778",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Acero de aleación",
+                    "Lubricantes de alta temperatura"
+                ]
+            }
+        },
+        "Tc": {
+            "coords": {
+                "row": 5,
+                "col": 7
+            },
+            "atomic_number": 43,
+            "name": "Tecnecio",
+            "group": "transition_metals",
+            "atomic_weight": "(98)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                13,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1937",
+                "discovery_place": "Italia",
+                "common_uses": [
+                    "Medicina nuclear",
+                    "Marcadores radiográficos"
+                ]
+            }
+        },
+        "Ru": {
+            "coords": {
+                "row": 5,
+                "col": 8
+            },
+            "atomic_number": 44,
+            "name": "Rutenio",
+            "group": "transition_metals",
+            "atomic_weight": 101.07,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                15,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1844",
+                "discovery_place": "Rusia",
+                "common_uses": [
+                    "Contactos eléctricos",
+                    "Catalizadores"
+                ]
+            }
+        },
+        "Rh": {
+            "coords": {
+                "row": 5,
+                "col": 9
+            },
+            "atomic_number": 45,
+            "name": "Rodio",
+            "group": "transition_metals",
+            "atomic_weight": 102.91,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                16,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1803",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Catalizadores de automóviles",
+                    "Joyas y recubrimientos"
+                ]
+            }
+        },
+        "Pd": {
+            "coords": {
+                "row": 5,
+                "col": 10
+            },
+            "atomic_number": 46,
+            "name": "Paladio",
+            "group": "transition_metals",
+            "atomic_weight": 106.42,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18
+            ],
+            "extra_info": {
+                "discovery_date": "1803",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Catalizadores de automóviles",
+                    "Electrónica"
+                ]
+            }
+        },
+        "Ag": {
+            "coords": {
+                "row": 5,
+                "col": 11
+            },
+            "atomic_number": 47,
+            "name": "Plata",
+            "group": "transition_metals",
+            "atomic_weight": 107.87,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Joyas y monedas",
+                    "Conductores eléctricos"
+                ]
+            }
+        },
+        "Cd": {
+            "coords": {
+                "row": 5,
+                "col": 12
+            },
+            "atomic_number": 48,
+            "name": "Cadmio",
+            "group": "transition_metals",
+            "atomic_weight": 112.41,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1817",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Baterías recargables",
+                    "Recubrimientos anticorrosivos"
+                ]
+            }
+        },
+        "In": {
+            "coords": {
+                "row": 5,
+                "col": 13
+            },
+            "atomic_number": 49,
+            "name": "Indio",
+            "group": "post-transition_metals",
+            "atomic_weight": 114.82,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1863",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Pantallas táctiles",
+                    "Aleaciones de soldadura"
+                ]
+            }
+        },
+        "Sn": {
+            "coords": {
+                "row": 5,
+                "col": 14
+            },
+            "atomic_number": 50,
+            "name": "Estaño",
+            "group": "post-transition_metals",
+            "atomic_weight": 118.71,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Recubrimiento de latas",
+                    "Aleaciones (bronce, soldaduras)"
+                ]
+            }
+        },
+        "Sb": {
+            "coords": {
+                "row": 5,
+                "col": 15
+            },
+            "atomic_number": 51,
+            "name": "Antimonio",
+            "group": "metalloids",
+            "atomic_weight": 121.76,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Aleaciones resistentes",
+                    "Retardantes de llama"
+                ]
+            }
+        },
+        "Te": {
+            "coords": {
+                "row": 5,
+                "col": 16
+            },
+            "atomic_number": 52,
+            "name": "Telurio",
+            "group": "metalloids",
+            "atomic_weight": 127.60,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "1782",
+                "discovery_place": "Austria",
+                "common_uses": [
+                    "Aleaciones metálicas",
+                    "Semiconductores"
+                ]
+            }
+        },
+        "I": {
+            "coords": {
+                "row": 5,
+                "col": 17
+            },
+            "atomic_number": 53,
+            "name": "Yodo",
+            "group": "halogens",
+            "atomic_weight": 126.90,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "1811",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Antisépticos",
+                    "Suplementos alimenticios"
+                ]
+            }
+        },
+        "Xe": {
+            "coords": {
+                "row": 5,
+                "col": 18
+            },
+            "atomic_number": 54,
+            "name": "Xenón",
+            "group": "noble_gases",
+            "atomic_weight": 131.29,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "1898",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Luces de alta intensidad",
+                    "Anestesia"
+                ]
+            }
+        },
+        "Cs": {
+            "coords": {
+                "row": 6,
+                "col": 1
+            },
+            "atomic_number": 55,
+            "name": "Cesio",
+            "group": "alkali",
+            "atomic_weight": 132.91,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                8,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1860",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Relojes atómicos",
+                    "Óptica especial"
+                ]
+            }
+        },
+        "Ba": {
+            "coords": {
+                "row": 6,
+                "col": 2
+            },
+            "atomic_number": 56,
+            "name": "Bario",
+            "group": "alkali_earth",
+            "atomic_weight": 137.33,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1808",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Fuegos artificiales",
+                    "Agentes de contraste médicos"
+                ]
+            }
+        },
+        "Hf": {
+            "coords": {
+                "row": 6,
+                "col": 4
+            },
+            "atomic_number": 72,
+            "name": "Hafnio",
+            "group": "transition_metals",
+            "atomic_weight": 178.49,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                10,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1923",
+                "discovery_place": "Dinamarca",
+                "common_uses": [
+                    "Reactores nucleares",
+                    "Aleaciones de alta temperatura"
+                ]
+            }
+        },
+        "Ta": {
+            "coords": {
+                "row": 6,
+                "col": 5
+            },
+            "atomic_number": 73,
+            "name": "Tántalo",
+            "group": "transition_metals",
+            "atomic_weight": 180.95,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                11,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1802",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Condensadores electrónicos",
+                    "Aleaciones resistentes a la corrosión"
+                ]
+            }
+        },
+        "W": {
+            "coords": {
+                "row": 6,
+                "col": 6
+            },
+            "atomic_number": 74,
+            "name": "Wolframio",
+            "group": "transition_metals",
+            "atomic_weight": 183.84,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                12,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1783",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Filamentos de bombillas",
+                    "Aleaciones resistentes al calor"
+                ]
+            }
+        },
+        "Re": {
+            "coords": {
+                "row": 6,
+                "col": 7
+            },
+            "atomic_number": 75,
+            "name": "Renio",
+            "group": "transition_metals",
+            "atomic_weight": 186.21,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                13,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1925",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Superaleaciones",
+                    "Catalizadores"
+                ]
+            }
+        },
+        "Os": {
+            "coords": {
+                "row": 6,
+                "col": 8
+            },
+            "atomic_number": 76,
+            "name": "Osmio",
+            "group": "transition_metals",
+            "atomic_weight": 190.23,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                14,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1803",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Puntas de bolígrafo",
+                    "Aleaciones duras"
+                ]
+            }
+        },
+        "Ir": {
+            "coords": {
+                "row": 6,
+                "col": 9
+            },
+            "atomic_number": 77,
+            "name": "Iridio",
+            "group": "transition_metals",
+            "atomic_weight": 192.22,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                15,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1803",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Aleaciones resistentes a la corrosión",
+                    "Contactos eléctricos"
+                ]
+            }
+        },
+        "Pt": {
+            "coords": {
+                "row": 6,
+                "col": 10
+            },
+            "atomic_number": 78,
+            "name": "Platino",
+            "group": "transition_metals",
+            "atomic_weight": 195.08,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                17,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Catalizadores de automóviles",
+                    "Joyería"
+                ]
+            }
+        },
+        "Au": {
+            "coords": {
+                "row": 6,
+                "col": 11
+            },
+            "atomic_number": 79,
+            "name": "Oro",
+            "group": "transition_metals",
+            "atomic_weight": 196.97,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Joyería",
+                    "Electrónica"
+                ]
+            }
+        },
+        "Hg": {
+            "coords": {
+                "row": 6,
+                "col": 12
+            },
+            "atomic_number": 80,
+            "name": "Mercurio",
+            "group": "transition_metals",
+            "atomic_weight": 250.59,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Termómetros",
+                    "Amalgamas dentales"
+                ]
+            }
+        },
+        "Tl": {
+            "coords": {
+                "row": 6,
+                "col": 13
+            },
+            "atomic_number": 81,
+            "name": "Talio",
+            "group": "post-transition_metals",
+            "atomic_weight": 204.38,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1861",
+                "discovery_place": "Reino Unido",
+                "common_uses": [
+                    "Electrónica",
+                    "Aleaciones especiales"
+                ]
+            }
+        },
+        "Pb": {
+            "coords": {
+                "row": 6,
+                "col": 14
+            },
+            "atomic_number": 82,
+            "name": "Plomo",
+            "group": "post-transition_metals",
+            "atomic_weight": 207.2,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Baterías",
+                    "Protección contra radiación"
+                ]
+            }
+        },
+        "Bi": {
+            "coords": {
+                "row": 6,
+                "col": 15
+            },
+            "atomic_number": 83,
+            "name": "Bismuto",
+            "group": "post-transition_metals",
+            "atomic_weight": 208.98,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "Antigüedad",
+                "discovery_place": "Desconocido",
+                "common_uses": [
+                    "Cosméticos y medicamentos",
+                    "Aleaciones de bajo punto de fusión"
+                ]
+            }
+        },
+        "Po": {
+            "coords": {
+                "row": 6,
+                "col": 16
+            },
+            "atomic_number": 84,
+            "name": "Polonio",
+            "group": "metalloids",
+            "atomic_weight": "(209)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "1898",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Generadores de calor en dispositivos espaciales",
+                    "Investigación nuclear"
+                ]
+            }
+        },
+        "At": {
+            "coords": {
+                "row": 6,
+                "col": 17
+            },
+            "atomic_number": 85,
+            "name": "Ástato",
+            "group": "halogens",
+            "atomic_weight": "(210)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "1940",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación en medicina nuclear",
+                    "Estudios de química radiactiva"
+                ]
+            }
+        },
+        "Rn": {
+            "coords": {
+                "row": 6,
+                "col": 18
+            },
+            "atomic_number": 86,
+            "name": "Radón",
+            "group": "noble_gases",
+            "atomic_weight": "(222)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "1900",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Detección de fugas",
+                    "Investigación médica"
+                ]
+            }
+        },
+        "Fr": {
+            "coords": {
+                "row": 7,
+                "col": 1
+            },
+            "atomic_number": 87,
+            "name": "Francio",
+            "group": "alkali",
+            "atomic_weight": "(223)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                8,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1939",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de física nuclear"
+                ]
+            }
+        },
+        "Ra": {
+            "coords": {
+                "row": 7,
+                "col": 2
+            },
+            "atomic_number": 88,
+            "name": "Radio",
+            "group": "alkali_earth",
+            "atomic_weight": "(226)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1898",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Radioterapia",
+                    "Investigación científica"
+                ]
+            }
+        },
+        "Rf": {
+            "coords": {
+                "row": 7,
+                "col": 4
+            },
+            "atomic_number": 104,
+            "name": "Rutherfordio",
+            "group": "transition_metals",
+            "atomic_weight": "(267)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                10,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1964",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de química de elementos superpesados"
+                ]
+            }
+        },
+        "Db": {
+            "coords": {
+                "row": 7,
+                "col": 5
+            },
+            "atomic_number": 105,
+            "name": "Dubnio",
+            "group": "transition_metals",
+            "atomic_weight": "(268)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                11,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1967",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de química de elementos superpesados"
+                ]
+            }
+        },
+        "Sg": {
+            "coords": {
+                "row": 7,
+                "col": 6
+            },
+            "atomic_number": 106,
+            "name": "Seaborgio",
+            "group": "transition_metals",
+            "atomic_weight": "(269)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                12,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1974",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de química nuclear"
+                ]
+            }
+        },
+        "Bh": {
+            "coords": {
+                "row": 7,
+                "col": 7
+            },
+            "atomic_number": 107,
+            "name": "Bohrio",
+            "group": "transition_metals",
+            "atomic_weight": "(270)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                13,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1981",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        },
+        "Hs": {
+            "coords": {
+                "row": 7,
+                "col": 8
+            },
+            "atomic_number": 108,
+            "name": "Hasio",
+            "group": "transition_metals",
+            "atomic_weight": "(277)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                14,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1984",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        }
+    },
+    "meta": {
+        "rows": 7,
+        "cols": 18,
+        "group_colors": {
+            "alkali": "#FF9999",
+            "alkali_earth": "#FFCC99",
+            "transition_metals": "#FFFF99",
+            "lantanoids": "#CCFF99",
+            "actinoids": "#99FF99",
+            "post-transition_metals": "#99FFFF",
+            "metalloids": "#FFCCFF",
+            "nonmetals": "#CCCCFF",
+            "halogens": "#FF99FF",
+            "noble_gases": "#99CCFF",
+            "hydrogen": "#FFDDC1"
+        }
+    }
+}
