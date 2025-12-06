@@ -1335,6 +1335,396 @@
                 ]
             }
         },
+        "La": {
+            "coords": {
+                "row": 9,
+                "col": 4
+            },
+            "atomic_number": 57,
+            "name": "Lantano",
+            "group": "lanthanides",
+            "atomic_weight": 138.91,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                18,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1839",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Lentes especiales",
+                    "Aleaciones"
+                ]
+            }
+        },
+        "Ce": {
+            "coords": {
+                "row": 9,
+                "col": 5
+            },
+            "atomic_number": 58,
+            "name": "Cerio",
+            "group": "lanthanides",
+            "atomic_weight": 140.12,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                19,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1803",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Catalizadores",
+                    "Pulido de vidrio"
+                ]
+            }
+        },
+        "Pr": {
+            "coords": {
+                "row": 9,
+                "col": 6
+            },
+            "atomic_number": 59,
+            "name": "Praseodimio",
+            "group": "lanthanides",
+            "atomic_weight": 140.91,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                21,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1885",
+                "discovery_place": "Austria",
+                "common_uses": [
+                    "Imanes",
+                    "Vidrios especiales"
+                ]
+            }
+        },
+        "Nd": {
+            "coords": {
+                "row": 9,
+                "col": 7
+            },
+            "atomic_number": 60,
+            "name": "Neodimio",
+            "group": "lanthanides",
+            "atomic_weight": 144.24,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                22,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1885",
+                "discovery_place": "Austria",
+                "common_uses": [
+                    "Imanes potentes",
+                    "Láseres"
+                ]
+            }
+        },
+        "Pm": {
+            "coords": {
+                "row": 9,
+                "col": 8
+            },
+            "atomic_number": 61,
+            "name": "Prometio",
+            "group": "lanthanides",
+            "atomic_weight": "(145)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                23,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1945",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Generadores termoeléctricos",
+                    "Fuentes luminosas"
+                ]
+            }
+        },
+        "Sm": {
+            "coords": {
+                "row": 9,
+                "col": 9
+            },
+            "atomic_number": 62,
+            "name": "Samario",
+            "group": "lanthanides",
+            "atomic_weight": 150.36,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                24,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1879",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Imanes",
+                    "Reactores nucleares"
+                ]
+            }
+        },
+        "Eu": {
+            "coords": {
+                "row": 9,
+                "col": 10
+            },
+            "atomic_number": 63,
+            "name": "Europio",
+            "group": "lanthanides",
+            "atomic_weight": 151.96,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                25,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1901",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Fosforescentes",
+                    "Pantallas"
+                ]
+            }
+        },
+        "Gd": {
+            "coords": {
+                "row": 9,
+                "col": 11
+            },
+            "atomic_number": 64,
+            "name": "Gadolinio",
+            "group": "lanthanides",
+            "atomic_weight": 157.25,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                25,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1880",
+                "discovery_place": "Suiza",
+                "common_uses": [
+                    "Agentes de contraste",
+                    "Imanes"
+                ]
+            }
+        },
+        "Tb": {
+            "coords": {
+                "row": 9,
+                "col": 12
+            },
+            "atomic_number": 65,
+            "name": "Terbio",
+            "group": "lanthanides",
+            "atomic_weight": 158.93,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                27,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1843",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Fosforescentes",
+                    "Imanes"
+                ]
+            }
+        },
+        "Dy": {
+            "coords": {
+                "row": 9,
+                "col": 13
+            },
+            "atomic_number": 66,
+            "name": "Disprosio",
+            "group": "lanthanides",
+            "atomic_weight": 162.50,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                28,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1886",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Imanes de alta temperatura",
+                    "Fuentes de láser"
+                ]
+            }
+        },
+        "Ho": {
+            "coords": {
+                "row": 9,
+                "col": 14
+            },
+            "atomic_number": 67,
+            "name": "Holmio",
+            "group": "lanthanides",
+            "atomic_weight": 164.93,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                29,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1878",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Imanes",
+                    "Fuentes de láser"
+                ]
+            }
+        },
+        "Er": {
+            "coords": {
+                "row": 9,
+                "col": 15
+            },
+            "atomic_number": 68,
+            "name": "Erbio",
+            "group": "lanthanides",
+            "atomic_weight": 167.26,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                30,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1842",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Fuentes láser",
+                    "Vidrio coloreado"
+                ]
+            }
+        },
+        "Tm": {
+            "coords": {
+                "row": 9,
+                "col": 16
+            },
+            "atomic_number": 69,
+            "name": "Tulio",
+            "group": "lanthanides",
+            "atomic_weight": 168.93,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                31,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1879",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Fuentes láser",
+                    "Aleaciones especiales"
+                ]
+            }
+        },
+        "Yb": {
+            "coords": {
+                "row": 9,
+                "col": 17
+            },
+            "atomic_number": 70,
+            "name": "Iterbio",
+            "group": "lanthanides",
+            "atomic_weight": 173.05,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1878",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Fuentes láser",
+                    "Aleaciones metálicas"
+                ]
+            }
+        },
+        "Lu": {
+            "coords": {
+                "row": 9,
+                "col": 18
+            },
+            "atomic_number": 71,
+            "name": "Lutecio",
+            "group": "lanthanides",
+            "atomic_weight": 174.97,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1907",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Catalizadores",
+                    "Aleaciones especiales"
+                ]
+            }
+        },
         "Hf": {
             "coords": {
                 "row": 6,
@@ -1779,6 +2169,411 @@
                 ]
             }
         },
+        "Ac": {
+            "coords": {
+                "row": 10,
+                "col": 4
+            },
+            "atomic_number": 89,
+            "name": "Actinio",
+            "group": "actinoids",
+            "atomic_weight": "(227)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1899",
+                "discovery_place": "Francia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Fuente de neutrones"
+                ]
+            }
+        },
+        "Th": {
+            "coords": {
+                "row": 10,
+                "col": 5
+            },
+            "atomic_number": 90,
+            "name": "Torio",
+            "group": "actinoids",
+            "atomic_weight": 232.04,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                10,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1828",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Combustible nuclear",
+                    "Luminiscencia"
+                ]
+            }
+        },
+        "Pa": {
+            "coords": {
+                "row": 10,
+                "col": 6
+            },
+            "atomic_number": 91,
+            "name": "Protactinio",
+            "group": "actinoids",
+            "atomic_weight": 231.04,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                20,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1913",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de isótopos"
+                ]
+            }
+        },
+        "U": {
+            "coords": {
+                "row": 10,
+                "col": 7
+            },
+            "atomic_number": 92,
+            "name": "Uranio",
+            "group": "actinoids",
+            "atomic_weight": 238.03,
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                21,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1789",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Combustible nuclear",
+                    "Producción de energía"
+                ]
+            }
+        },
+        "Np": {
+            "coords": {
+                "row": 10,
+                "col": 8
+            },
+            "atomic_number": 93,
+            "name": "Neptunio",
+            "group": "actinoids",
+            "atomic_weight": "(237)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                22,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1940",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Producción de plutonio"
+                ]
+            }
+        },
+        "Pu": {
+            "coords": {
+                "row": 10,
+                "col": 9
+            },
+            "atomic_number": 94,
+            "name": "Plutonio",
+            "group": "actinoids",
+            "atomic_weight": "(244)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                24,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1940",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Combustible nuclear",
+                    "Generadores termoeléctricos"
+                ]
+            }
+        },
+        "Am": {
+            "coords": {
+                "row": 10,
+                "col": 10
+            },
+            "atomic_number": 95,
+            "name": "Americio",
+            "group": "actinoids",
+            "atomic_weight": "(243)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                25,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1944",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Detectores de humo",
+                    "Fuentes radiactivas"
+                ]
+            }
+        },
+        "Cm": {
+            "coords": {
+                "row": 10,
+                "col": 11
+            },
+            "atomic_number": 96,
+            "name": "Curio",
+            "group": "actinoids",
+            "atomic_weight": "(247)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                25,
+                9,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1944",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Fuentes de calor radiactivo"
+                ]
+            }
+        },
+        "Bk": {
+            "coords": {
+                "row": 10,
+                "col": 12
+            },
+            "atomic_number": 97,
+            "name": "Berkelio",
+            "group": "actinoids",
+            "atomic_weight": "(247)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                27,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1949",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Síntesis de elementos pesados"
+                ]
+            }
+        },
+        "Cf": {
+            "coords": {
+                "row": 10,
+                "col": 13
+            },
+            "atomic_number": 98,
+            "name": "Californio",
+            "group": "actinoids",
+            "atomic_weight": "(251)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                18,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1950",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Fuentes de neutrones",
+                    "Análisis de materiales"
+                ]
+            }
+        },
+        "Es": {
+            "coords": {
+                "row": 10,
+                "col": 14
+            },
+            "atomic_number": 99,
+            "name": "Einstenio",
+            "group": "actinoids",
+            "atomic_weight": "(252)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                29,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1952",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Producción de elementos pesados"
+                ]
+            }
+        },
+        "Fm": {
+            "coords": {
+                "row": 10,
+                "col": 15
+            },
+            "atomic_number": 100,
+            "name": "Fermio",
+            "group": "actinoids",
+            "atomic_weight": "(257)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                30,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1952",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios nucleares"
+                ]
+            }
+        },
+        "Md": {
+            "coords": {
+                "row": 10,
+                "col": 16
+            },
+            "atomic_number": 101,
+            "name": "Mendelevio",
+            "group": "actinoids",
+            "atomic_weight": "(258)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                31,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1955",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        },
+        "No": {
+            "coords": {
+                "row": 10,
+                "col": 17
+            },
+            "atomic_number": 102,
+            "name": "Nobelio",
+            "group": "actinoids",
+            "atomic_weight": "(259)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                8,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1957",
+                "discovery_place": "Suecia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios nucleares"
+                ]
+            }
+        },
+        "Lr": {
+            "coords": {
+                "row": 10,
+                "col": 18
+            },
+            "atomic_number": 103,
+            "name": "Lawrencio",
+            "group": "actinoids",
+            "atomic_weight": "(266)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                8,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "1961",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de estructura atómica"
+                ]
+            }
+        },
         "Rf": {
             "coords": {
                 "row": 7,
@@ -1913,23 +2708,310 @@
                     "Estudios de elementos superpesados"
                 ]
             }
+        },
+        "Mt": {
+            "coords": {
+                "row": 7,
+                "col": 9
+            },
+            "atomic_number": 109,
+            "name": "Meitnerio",
+            "group": "unknown",
+            "atomic_weight": "(278)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                15,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1982",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        },
+        "Ds": {
+            "coords": {
+                "row": 7,
+                "col": 10
+            },
+            "atomic_number": 110,
+            "name": "Darmstatio",
+            "group": "unknown",
+            "atomic_weight": "(281)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                17,
+                1
+            ],
+            "extra_info": {
+                "discovery_date": "1994",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Análisis de estabilidad nuclear"
+                ]
+            }
+        },
+        "Rg": {
+            "coords": {
+                "row": 7,
+                "col": 11
+            },
+            "atomic_number": 111,
+            "name": "Roentgenio",
+            "group": "unknown",
+            "atomic_weight": "(282)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                17,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1994",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de desintegración nuclear"
+                ]
+            }
+        },
+        "Cn": {
+            "coords": {
+                "row": 7,
+                "col": 12
+            },
+            "atomic_number": 112,
+            "name": "Copernicio",
+            "group": "unknown",
+            "atomic_weight": "(285)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                2
+            ],
+            "extra_info": {
+                "discovery_date": "1996",
+                "discovery_place": "Alemania",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de química relativista"
+                ]
+            }
+        },
+        "Nh": {
+            "coords": {
+                "row": 7,
+                "col": 13
+            },
+            "atomic_number": 113,
+            "name": "Nihonio",
+            "group": "unknown",
+            "atomic_weight": "(286)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                3
+            ],
+            "extra_info": {
+                "discovery_date": "2004",
+                "discovery_place": "Japón",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        },
+        "Fl": {
+            "coords": {
+                "row": 7,
+                "col": 14
+            },
+            "atomic_number": 114,
+            "name": "Flerovio",
+            "group": "unknown",
+            "atomic_weight": "(289)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                4
+            ],
+            "extra_info": {
+                "discovery_date": "1998",
+                "discovery_place": "Rusia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de estabilidad nuclear"
+                ]
+            }
+        },
+        "Mc": {
+            "coords": {
+                "row": 7,
+                "col": 15
+            },
+            "atomic_number": 115,
+            "name": "Moscovio",
+            "group": "unknown",
+            "atomic_weight": "(290)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                5
+            ],
+            "extra_info": {
+                "discovery_date": "2003",
+                "discovery_place": "Rusia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Análisis de desintegración nuclear"
+                ]
+            }
+        },
+        "Lv": {
+            "coords": {
+                "row": 7,
+                "col": 16
+            },
+            "atomic_number": 116,
+            "name": "Livermorio",
+            "group": "unknown",
+            "atomic_weight": "(293)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                6
+            ],
+            "extra_info": {
+                "discovery_date": "2000",
+                "discovery_place": "Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de química relativista"
+                ]
+            }
+        },
+        "Ts": {
+            "coords": {
+                "row": 7,
+                "col": 17
+            },
+            "atomic_number": 117,
+            "name": "Teneso",
+            "group": "unknown",
+            "atomic_weight": "(294)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                7
+            ],
+            "extra_info": {
+                "discovery_date": "2010",
+                "discovery_place": "Rusia y Estados Unidos",
+                "common_uses": [
+                    "Investigación científica",
+                    "Estudios de elementos superpesados"
+                ]
+            }
+        },
+        "Og": {
+            "coords": {
+                "row": 7,
+                "col": 18
+            },
+            "atomic_number": 118,
+            "name": "Oganesón",
+            "group": "unknown",
+            "atomic_weight": "(294)",
+            "energy_levels": [
+                2,
+                8,
+                18,
+                32,
+                32,
+                18,
+                8
+            ],
+            "extra_info": {
+                "discovery_date": "2002",
+                "discovery_place": "Rusia",
+                "common_uses": [
+                    "Investigación científica",
+                    "Modelos teóricos de química relativista"
+                ]
+            }
         }
     },
     "meta": {
-        "rows": 7,
+        "rows": 10,
         "cols": 18,
         "group_colors": {
-            "alkali": "#FF9999",
-            "alkali_earth": "#FFCC99",
-            "transition_metals": "#FFFF99",
-            "lantanoids": "#CCFF99",
-            "actinoids": "#99FF99",
-            "post-transition_metals": "#99FFFF",
-            "metalloids": "#FFCCFF",
-            "nonmetals": "#CCCCFF",
-            "halogens": "#FF99FF",
-            "noble_gases": "#99CCFF",
-            "hydrogen": "#FFDDC1"
+            "light": {
+                "alkali": "#EACE5D",
+                "alkali_earth": "#F1F165",
+                "transition_metals": "#FAC5B7",
+                "lanthanides": "#E8D19C",
+                "actinoids": "#F5CCDA",
+                "post-transition_metals": "#ACDFEC",
+                "metalloids": "#9EE5D4",
+                "nonmetals": "#8CED8C",
+                "halogens": "#FF99FF",
+                "noble_gases": "#E5BDE5",
+                "unknown": "#EEEEEE",
+                "hydrogen": "#FFDDC1"
+            },
+            "dark": {
+                "alkali": "#6C3B01",
+                "alkali_earth": "#846011",
+                "transition_metals": "#711019",
+                "lanthanides": "#402C17",
+                "actinoids": "#732E4C",
+                "post-transition_metals": "#003666",
+                "metalloids": "#015146",
+                "nonmetals": "#3E6418",
+                "halogens": "#5A005A",
+                "noble_gases": "#3A2151",
+                "unknown": "#222222",
+                "hydrogen": "#3E6418"
+            }
         }
     }
 }
