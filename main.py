@@ -445,7 +445,7 @@ def draw_table(canvas: tk.Canvas, elements, meta, default_theme):
                 text_ids,
                 element_container_ids,
                 theme_button_id,
-                theme_button_text_id
+                theme_button_text_id,
             )
 
         for symbol, data in elements.items():
@@ -519,7 +519,7 @@ def draw_table(canvas: tk.Canvas, elements, meta, default_theme):
 def draw_button(canvas: tk.Canvas, text, text_color, x1, y1, x2, y2, **options):
     button_height = y2 - y1
     button_width = x2 - x1
-    
+
     container_id = canvas.create_rectangle(
         x1,
         y1,
@@ -527,14 +527,14 @@ def draw_button(canvas: tk.Canvas, text, text_color, x1, y1, x2, y2, **options):
         y2,
         **options,
     )
-    
+
     theme_text_id = canvas.create_text(
         x1 + button_width / 2,
         y1 + button_height / 2,
         text=text,
         fill=text_color,
         anchor="center",
-        font=("Arial", 14)
+        font=("Arial", 14),
     )
 
     return container_id, theme_text_id
@@ -550,7 +550,7 @@ def update_theme(
     text_ids,
     element_container_ids,
     theme_button_id,
-    theme_button_text_id
+    theme_button_text_id,
 ):
     canvas.config(bg=theme_colors[theme]["background"])
 
@@ -575,18 +575,16 @@ def update_theme(
             fill=selected_color,
             outline=theme_colors[theme]["element_border"],
         )
-    
+
     if theme_button_id and theme_button_text_id:
         canvas.itemconfig(
             theme_button_id,
             fill=theme_colors[theme]["button_bg"],
-            outline=theme_colors[theme]["button_border"]
+            outline=theme_colors[theme]["button_border"],
         )
-        
+
         canvas.itemconfig(
-            theme_button_text_id,
-            text=theme,
-            fill=theme_colors[theme]["text"]
+            theme_button_text_id, text=theme, fill=theme_colors[theme]["text"]
         )
 
 
